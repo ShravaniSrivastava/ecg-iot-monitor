@@ -39,6 +39,12 @@ with an ECG/pulse sensor front-end in mind, but works with any analog sensor.
 
 Implemented the firmware for WiFi/MQTT connectivity and sensor data
 publishing pipeline, and integrated it with the Ubidots dashboard for live
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7956d6e9-d59c-4ee8-972a-bb32c03ac1cc" />
+
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3c10f1a7-a6e9-460e-a543-051a47e7b3a0" />
+
+
 visualization.
 
 ## Notes
